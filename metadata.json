@@ -1,0 +1,7 @@
+{
+  "name": "恆序商務中心 Aeterna Centre",
+  "description": "頂級私人辦公室、共享座位與虛擬進駐服務。座落於信義與內湖核心地段。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
